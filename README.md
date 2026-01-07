@@ -5,7 +5,7 @@ All course content from **Week 0 to Week 4** is organized clearly for learning, 
 
 ---
 
-![python](https://github.com/user-attachments/assets/4058b3fd-9add-447c-989a-0fd3984dcd21)
+<img height='200' width='1000' src='"C:\Users\User\Downloads\python.jpg"'/>
 
 ---
 
