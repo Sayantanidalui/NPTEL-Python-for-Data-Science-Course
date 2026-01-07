@@ -5,10 +5,6 @@ All course content from **Week 0 to Week 4** is organized clearly for learning, 
 
 ---
 
-<img height='200' width='1000' src='"C:\Users\User\Downloads\python.jpg"'/>
-
----
-
 ## 🟢 Week 0: Prerequisite
 - Python setup guide
 - Prerequisite Assignment for practice
